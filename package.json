@@ -1,0 +1,23 @@
+{
+  "name": "3d-model-viewer",
+  "version": "0.0.1",
+  "description": "Show 3D Model",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.9",
+    "raw-loader": "^4.0.0",
+    "three": "^0.121.1",
+    "zlib.es": "^0.6.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}
