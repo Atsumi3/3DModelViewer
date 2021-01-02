@@ -10,14 +10,14 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.9",
-    "raw-loader": "^4.0.0",
-    "three": "^0.121.1",
+    "nuxt": "^2.14.12",
+    "raw-loader": "^4.0.2",
+    "three": "^0.124.0",
     "zlib.es": "^0.6.0"
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^1.0.0",
-    "node-sass": "^4.13.0",
-    "sass-loader": "^8.0.0"
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
   }
 }
